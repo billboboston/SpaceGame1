@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\willi\documents\github\spacegame1\pa_8_spacegame\source.cpp(422): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  main.cpp
+c:\users\willi\documents\github\spacegame1\pa_8_spacegame\main.cpp(51): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Generating Code...
